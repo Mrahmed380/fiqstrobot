@@ -1,0 +1,60 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.5.1",
+    "request": "^2.88.0",
+    "node-fetch": "^2.6.0",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^1.0.3",
+    "quick.db": "^7.0.0-b22",
+    "user-instagram": "^1.0.0",
+    "node-opus": "^0.3.2",
+    "discord.js-musicbot-addon": "^13.8.1",
+    "urban": "^0.3.2",
+    "weather-js": "^2.0.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "figlet": "^1.2.4",
+    "canvas": "^2.6.1",
+    "express-glitch-keepalive": "^0.2.0",
+    "ms": "^2.1.2",
+    "cpu-stat": "^2.0.1",
+    "teamtrees-api": "^1.2.0",
+    "fortnite": "^4.3.2",
+    "mongoose": "^5.7.13",
+    "discord-xp": "^1.0.4",
+    "discord-leveling": "^1.1.0",
+    "sqlite3": "^4.1.1",
+    "sequelize": "^6.0.0",
+    "discord-economy": "^1.2.2",
+    "bootstrap": "^4.4.1",
+    "fb": "^2.0.0",
+    "random-puppy": "^1.1.0",
+    "discord-emoji-convert": "^1.6.0",
+    "moment-timezone": "^0.5.26",
+    "city-timezones": "^1.1.0",
+    "geo-tz": "^5.1.0"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

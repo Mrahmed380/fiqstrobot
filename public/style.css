@@ -1,0 +1,16 @@
+body {
+  font-family: Courier;
+  color: #333;
+  text-align: center;
+  font-size: 25px;
+}
+
+a {
+  text-decorations: none;
+  background-color: lightgray;
+  color: white
+}
+
+a:hover {
+  background-color: White
+}
